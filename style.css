@@ -1,7 +1,10 @@
 h1 {text-align: center;
-color: blue;}
+color: cyan;}
 #title {text-align: center;
-color: red;
+color: yellow;
 margin:25px;}
-#semi-title {margin: 50px;}
-p {color:green;}
+#semi-title {margin: 50px;
+color: cyan;}
+p {color:yellow;}
+#main-body {color: red;}
+a {color: cyan;}
