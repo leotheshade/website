@@ -5,3 +5,5 @@ h3 {text-align: center;
 color: blue;}
 .types {text-align: center;
 color: red;}
+img {margin: auto;
+display: block;}
